@@ -3,7 +3,7 @@
 
 ## OVERVIEW
 
-printf project is an ALX Collaboration project. The task is to reproduce a program that 
+printf project is an ALX Collaboration project. The task is to reproduce a program that
 operates in like manner as the printf function in the standard C stdio.h library.
 
 Project Source:- Julien Barbier (CEO Holberton School).
@@ -11,7 +11,7 @@ Language: C Programming
 
 ****************************************************************
 
-## REQUIREME
+## REQUIREMENT
 General requirement are as follows:
 
    - Allowed editors: vi, vim, emacs
@@ -23,8 +23,8 @@ General requirement are as follows:
 (https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl)
    - You are not allowed to use global variables
    - No more than 5 functions per file
-   - In the following examples, the main.c files are shown as examples. 
-You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). 
+   - In the following examples, the main.c files are shown as examples.
+You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account).
 We will use our own main.c files at compilation. Our **main.c** files might be different from the one shown in the examples
    - The prototypes of all your functions should be included in your header file called **main.h**
    - Don’t forget to push your header file
@@ -35,8 +35,8 @@ We will use our own main.c files at compilation. Our **main.c** files might be d
 ****************************************************************
 
 ## GitHub
-There should be one project repository per group. The other members do not fork or clone 
-the project to ensure only one of the team has the repository in their github account 
+There should be one project repository per group. The other members do not fork or clone
+the project to ensure only one of the team has the repository in their github account
 otherwise you risk scoring 0%
 
 ****************************************************************
